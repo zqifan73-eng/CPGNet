@@ -10,7 +10,7 @@ This repository contains the official implementation of **CPGNet**, a conditiona
 - arXiv: https://arxiv.org/abs/2603.30008
   
 ## Framework
-![Framework](assets/framework.png)
+![Framework](framework.png)
 
 ## Highlights
 - Conditional polarization guidance for RGB feature learning
